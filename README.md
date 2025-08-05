@@ -78,11 +78,12 @@ reset-project.js
 
 HomePage
 
-![WhatsApp Image 2025-08-05 at 17 28 04_168c9757](https://github.com/user-attachments/assets/f28e04a9-deb3-4190-9db7-3826f9389ad3)
+![WhatsApp Image 2025-08-05 at 17 28 04_168c9757](https://github.com/user-attachments/assets/aa52fe9b-8924-4ee4-8ae9-e660199186ab)
+
 
 Setting
 
-![WhatsApp Image 2025-08-05 at 17 27 40_ec655dd0](https://github.com/user-attachments/assets/bc57d8b4-519a-4191-b200-38b5be149e8b)
+![WhatsApp Image 2025-08-05 at 17 27 40_ec655dd0](https://github.com/user-attachments/assets/07578492-639d-4f11-96a1-bd785f3927f8)
 
 
 
@@ -90,10 +91,9 @@ Setting
 📦 **API Reference**
 https://www.convex.dev/
 
-[Insert API reference documentation]
 
 👤 **Author**
-------------
+------------------------------------
 
 [Siddharth Raj]
 
